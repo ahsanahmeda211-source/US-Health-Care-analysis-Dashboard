@@ -47,27 +47,31 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ## Insights
 
-| Executive Summary | Hospital Insights |
-|-------------|-------------|
-| ![executive_summary](<img width="901" height="548" alt="Screenshot 2025-11-09 at 4 35 04 PM" src="https://github.com/user-attachments/assets/1581d9c9-ce36-44e4-8f56-1f1bc1c186d5" />
+| Executive Summary |
+|--------------------------|
+| <img width="901" height="548" alt="Screenshot 2025-11-09 at 4 35 04 PM" src="https://github.com/user-attachments/assets/1581d9c9-ce36-44e4-8f56-1f1bc1c186d5" />
 
- | ![hospital_insights]<img width="903" height="549" alt="Screenshot 2025-11-09 at 4 35 41 PM" src="https://github.com/user-attachments/assets/835de49d-be8e-4d24-b4b1-358c2279477c" />
+ | 
+ <img width="903" height="549" alt="Screenshot 2025-11-09 at 4 35 41 PM" src="https://github.com/user-attachments/assets/835de49d-be8e-4d24-b4b1-358c2279477c" />
  |
-| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.
 
 ---
 
-| Patient Outcome Analysis | Healthcare Provider Metrics |
-|-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
-| Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
+
+| Patient Outcome Analysis | 
+|--------------------------|
+<img width="897" height="556" alt="Screenshot 2025-11-09 at 4 36 38 PM" src="https://github.com/user-attachments/assets/a5e860fb-ac34-441e-af2d-98027dcb8806" />
+
+Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. 
 
 ---
 
 | Monthly Expenses Trends | 
 |--------------------------|
-| ![monthly_expenses_trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/7158dcb3-380e-4e14-878d-5de19d56c916) | 
-| **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | 
+<img width="852" height="539" alt="Screenshot 2025-11-09 at 4 37 09 PM" src="https://github.com/user-attachments/assets/526d49bf-adf0-4791-8a1a-9578cdab2fa1" />
+
+ **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. 
 
 ---
 

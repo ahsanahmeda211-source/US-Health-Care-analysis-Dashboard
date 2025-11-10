@@ -16,10 +16,6 @@
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
 
-**Check out the interactive Power BI dashboard below to explore the insights and findings visually:**
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-Viraj%20Bhutada-gold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
-
 ---
 
 ## Key Features
@@ -56,7 +52,10 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Executive Summary | Hospital Insights |
 |-------------|-------------|
-| ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
+| ![executive_summary](<img width="901" height="548" alt="Screenshot 2025-11-09 at 4 35 04 PM" src="https://github.com/user-attachments/assets/1581d9c9-ce36-44e4-8f56-1f1bc1c186d5" />
+
+ | ![hospital_insights]<img width="903" height="549" alt="Screenshot 2025-11-09 at 4 35 41 PM" src="https://github.com/user-attachments/assets/835de49d-be8e-4d24-b4b1-358c2279477c" />
+ |
 | This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
 
 ---
@@ -148,14 +147,4 @@ The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensi
 
 - **Comprehensive Data Structure:**
   - The ER Diagram provides a clear understanding of the data architecture, supporting robust and accurate analyses.
-
-### Closing Remarks
-
-This project underscores the importance of leveraging data analytics in the healthcare sector. Offering detailed insights into various facets of the industry empowers stakeholders to make data-driven decisions, ultimately enhancing the quality of care and operational efficiency. The U.S. Healthcare Industry Dynamics project stands as a testament to the transformative power of data in understanding and improving the healthcare landscape.
-
----
-
-### Connect With Me
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 

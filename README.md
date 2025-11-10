@@ -51,9 +51,9 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 |--------------------------|
 | <img width="901" height="548" alt="Screenshot 2025-11-09 at 4 35 04 PM" src="https://github.com/user-attachments/assets/1581d9c9-ce36-44e4-8f56-1f1bc1c186d5" />
 
- | 
+ 
  <img width="903" height="549" alt="Screenshot 2025-11-09 at 4 35 41 PM" src="https://github.com/user-attachments/assets/835de49d-be8e-4d24-b4b1-358c2279477c" />
- |
+ 
 This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.
 
 ---
@@ -85,9 +85,7 @@ Examination of patient-related data and outcomes: This image presents an explora
 
 ---
 
-## Conclusion
 
-The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders. 
 
 ### Key Insights
 
@@ -106,4 +104,9 @@ The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensi
 
 - **Comprehensive Data Structure:**
   - The ER Diagram provides a clear understanding of the data architecture, supporting robust and accurate analyses.
+
+---
+## Conclusion
+
+The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders. 
 
